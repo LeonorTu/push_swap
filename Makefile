@@ -6,7 +6,7 @@ LIBFT_NAME = libft.a
 
 SRCS = $(wildcard *.c)
 
-SRCS_BONUS = $(filter-out main.c, $(wildcard *.c)) $(wildcard bonus/*.c)
+SRCS_BONUS = $(filter-out main.c, $(wildcard src/*.c)) $(wildcard src/bonus/*.c)
 
 CFLAGS = -Wall -Wextra -Werror
 

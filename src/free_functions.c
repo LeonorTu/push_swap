@@ -6,11 +6,11 @@
 /*   By: jtu <jtu@student.hive.fi>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/31 18:43:45 by jtu               #+#    #+#             */
-/*   Updated: 2024/01/31 19:25:39 by jtu              ###   ########.fr       */
+/*   Updated: 2024/03/14 21:00:49 by jtu              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../inc/push_swap.h"
 
 void	free_stack(t_stack **stack)
 {

@@ -6,11 +6,11 @@
 /*   By: jtu <jtu@student.hive.fi>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/30 13:02:07 by jtu               #+#    #+#             */
-/*   Updated: 2024/02/01 15:38:46 by jtu              ###   ########.fr       */
+/*   Updated: 2024/03/14 21:00:49 by jtu              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../inc/push_swap.h"
 
 long	ft_atoi_long(const char *str)
 {

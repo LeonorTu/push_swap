@@ -6,11 +6,11 @@
 /*   By: jtu <jtu@student.hive.fi>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/29 17:23:59 by jtu               #+#    #+#             */
-/*   Updated: 2024/01/31 19:26:48 by jtu              ###   ########.fr       */
+/*   Updated: 2024/03/14 21:00:49 by jtu              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../inc/push_swap.h"
 
 bool	stack_sorted(t_stack *stack)
 {

@@ -6,11 +6,11 @@
 /*   By: jtu <jtu@student.hive.fi>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/30 17:53:18 by jtu               #+#    #+#             */
-/*   Updated: 2024/01/30 11:08:58 by jtu              ###   ########.fr       */
+/*   Updated: 2024/03/14 21:00:49 by jtu              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../inc/push_swap.h"
 
 void	rotate_stack(t_stack **stack)
 {

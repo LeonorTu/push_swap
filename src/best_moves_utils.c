@@ -6,11 +6,11 @@
 /*   By: jtu <jtu@student.hive.fi>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/31 19:02:14 by jtu               #+#    #+#             */
-/*   Updated: 2024/02/01 13:13:02 by jtu              ###   ########.fr       */
+/*   Updated: 2024/03/14 21:00:21 by jtu              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../inc/push_swap.h"
 
 void	init_moves(t_moves *moves)
 {

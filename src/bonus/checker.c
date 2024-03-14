@@ -6,11 +6,11 @@
 /*   By: jtu <jtu@student.hive.fi>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/29 18:22:55 by jtu               #+#    #+#             */
-/*   Updated: 2024/01/31 19:27:36 by jtu              ###   ########.fr       */
+/*   Updated: 2024/03/14 21:01:07 by jtu              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../push_swap.h"
+#include "../../inc/push_swap.h"
 
 void	apply_cmd(t_stack **a, t_stack **b, char *cmd)
 {
