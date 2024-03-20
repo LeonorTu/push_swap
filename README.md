@@ -3,8 +3,6 @@ Given a set of integers, sort it using a predefined set of instructions using
 two stacks. The instruction set is defined below. This program outputs a program
 in push_swap instructions that sorts the input integers.
 
-> ⚠️ **Warning**: Don't copy/paste anything you don't understand: it's bad for you, and for the school.
-
 ## Instruction set
 
 For the following instructions, if the instruction is not possible, the part of
@@ -28,7 +26,7 @@ it that can't be executed won't.
 
 For the stacks with size less than 6 I wrote a simple sort which can be found in the src folder.
 
-In this project I used `Radix` sort as the main algorithm. `Radix` sort is an efficient algorithm to sort non-negative integers
+In this project I used `Turk` sort as the main algorithm. `Turk` sort is an efficient algorithm to sort non-negative integers
 with time complexity O (n). For example, we can sort following list of integers with this algorithm
 
 ```
@@ -110,10 +108,6 @@ The checker code can be found in the checker.c file in this repository.
 You can find some links and books below that might be useful during the project. You can find all the books in resources folder.
 Note that you do not have to read the books completly but you will find a lot of useful information there.
 
-Books
-
-- [Algorithms](https://github.com/42YerevanProjects/42_Push_Swap/tree/master/resources)
-
 Links
 
-- [Push Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e)
+- [Push Swap Tutorial](https://medium.com/@ayogun/push-swap-c1f5d2d41e97)
